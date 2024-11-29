@@ -4,7 +4,7 @@
 }
 
 .pg1 {
-    background-image: url(../images/developer.png);
+    background-image: url(images/developer.png);
     height: 700px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -88,14 +88,14 @@
 }
 
 .img1 {
-    background-image: url(../images/uiux.png);
+    background-image: url(images/uiux.png);
     background-repeat: no-repeat;
     height: 210px;
     width: 320px;
 }
 
 .img2 {
-    background-image: url(../images/mobile.png);
+    background-image: url(images/mobile.png);
     background-repeat: no-repeat;
     height: 210px;
     width: 320px;
@@ -108,7 +108,7 @@
 }
 
 .img3 {
-    background-image: url(../images/web.png);
+    background-image: url(images/web.png);
     background-repeat: no-repeat;
     height: 210px;
     width: 320px;
