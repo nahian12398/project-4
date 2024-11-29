@@ -194,6 +194,7 @@
         width: 100%;
         background-color: #515603;
         height: 300px;
+        overflow: hidden;
     }
     
     .d2 {
